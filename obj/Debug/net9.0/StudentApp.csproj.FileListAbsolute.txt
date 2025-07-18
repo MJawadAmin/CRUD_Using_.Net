@@ -1,0 +1,8 @@
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfoInputs.cache
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfo.cs
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.csproj.CoreCompileInputs.cache
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.RazorAssemblyInfo.cache
+E:\Desktop\Office Works\AlimcoSoft\C# and .Net Projects\StudentApp\obj\Debug\net9.0\StudentApp.RazorAssemblyInfo.cs
