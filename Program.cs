@@ -15,7 +15,7 @@ app.UseRouting();
 app.UseStaticFiles();
 app.UseAuthorization();
 
-app.MapControllerRoute(
+app.MapControllerRoute( 
     name: "default",
     pattern: "{controller=Student}/{action=Index}/{id?}");
 
